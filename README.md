@@ -36,6 +36,13 @@
 </div>
 
 ---
+## 📊 Estatísticas do GitHub
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Karol259&theme=default" alt="Resumo do perfil"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Karol259&theme=default" alt="Linguagens por repositório"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Karol259&theme=default" alt="Estatísticas gerais"/>
+
+---
 
 ## 📬 Onde me encontrar
 
